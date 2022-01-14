@@ -11,7 +11,7 @@
     "nodejs",
     "server"
   ],
-  "type":"module",
+  "type": "module",
   "author": "chandan",
   "license": "ISC",
   "dependencies": {
@@ -19,9 +19,7 @@
     "express": "^4.17.2",
     "node-cache": "^5.1.2",
     "node-fetch": "^3.1.0",
-    "redis": "^4.0.2",
-    "response-time": "^2.3.2",
-    "util": "^0.12.4"
+    "response-time": "^2.3.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
